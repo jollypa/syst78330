@@ -37,7 +37,7 @@ public class Student {
     public String toString(){
         String out="\n-----------------------\n";
         out += "Id: " + id + "\n";
-        out += "Name: " + getName() + "\n";
+        out += "Name: " + name + "\n";
         out += "Marks: " + mark + "\n";
         out +="\n-----------------------\n";
         return out;
