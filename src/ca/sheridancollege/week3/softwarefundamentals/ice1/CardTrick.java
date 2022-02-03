@@ -39,7 +39,7 @@ public class CardTrick {
             System.out.println("USER SELCETD VALUES::" + c2.getSuit() + "|==|" + c2.getValue());
             if (c.equals(c2)) {
                 System.out.println("Your letter if it is in those chosen by the computer, Congratulation!!! ");
-            } else {
+            } else { 
                 System.out.println("Your card is not among those chosen by the Computer");
             }
 
