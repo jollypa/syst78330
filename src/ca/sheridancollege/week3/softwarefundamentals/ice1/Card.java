@@ -47,7 +47,7 @@ public class Card {
      * @param value the value to set
      */
     public void setValue(int value) {
-        this.value = value;
+        this.value =value;
     }
    
    
